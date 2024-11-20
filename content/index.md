@@ -1,5 +1,5 @@
 ---
-title: Welcome to my crude cookbook
+title: 🛠 welcome to my crude cookbook
 ---
 It's called a crude cookbook partially because it's alliterative but also because I'm trying to make this as effortless to navigate as possible. Also, to cut through the instagram-tiktok cooking bullshit that makes you feel like that you need an industrial grade, michelin star level of a kitchen to make food that has any hint of flavour.
 
