@@ -21,11 +21,9 @@ const FrontmatterList: QuartzComponent = ({ fileData, displayClass }: QuartzComp
   if (filteredFM && filteredFM.length > 0) {
     return (
       <ul class={classNames(displayClass, "tags")}>
-        return (
           <li>
             {filteredFM}
           </li>
-        )
       </ul>
     )
   } else {
