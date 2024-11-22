@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[beef Tallow]]
+- [[beef tallow]]
 - [[browned butter]]
 - [[buttered shrimp]]
 - [[chicken stock]]

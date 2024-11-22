@@ -3,6 +3,7 @@ duration: fast
 appliance:
   - stovetop
 allergens: 
+veggie option: true
 cuisine:
   - italian
 key_ingredients:

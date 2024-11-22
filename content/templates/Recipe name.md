@@ -2,6 +2,7 @@
 duration: 
 appliance: 
 allergens: 
+veggie option: false
 cuisine: 
 key_ingredients:
 ---
@@ -10,4 +11,5 @@ key_ingredients:
 # Procedures
 1. 
 # Notes
-- 
+* 
+# Veggie option

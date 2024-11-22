@@ -3,6 +3,7 @@ duration:
 appliance:
   - stovetop
 allergens: []
+veggie option: false
 cuisine: 
 key_ingredients:
   - beef fat

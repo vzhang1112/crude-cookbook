@@ -4,6 +4,7 @@ appliance:
   - stovetop
 allergens:
   - seafood
+veggie option: true
 cuisine:
   - italian
 key_ingredients:
@@ -29,4 +30,7 @@ key_ingredients:
 8. Reduce until small amount of cream is left
 # Notes
 - Can add chili flakes if wanting a kick
+- Can add broccoli or spinach for greens
 - Add butter for extra creaminess
+# Veggie option
+* Replace shrimp with sauteed mushrooms
