@@ -1,11 +1,13 @@
 ---
+description: 
+draft: false
 duration: fast
 appliance:
   - stovetop
 allergens:
   - seafood
 veggie_option: false
-cuisine: 
+cuisine:
 key_ingredients:
   - shrimp
   - butter

@@ -1,4 +1,6 @@
 ---
+description: 
+draft: false
 duration: depends on appliance
 appliance:
   - pressure cooker
@@ -6,7 +8,7 @@ appliance:
   - slow cooker
 allergens: 
 veggie_option: false
-cuisine: 
+cuisine:
 key_ingredients:
   - chicken carcass
 ---

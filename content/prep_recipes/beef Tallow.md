@@ -1,10 +1,12 @@
 ---
+description: 
+draft: false
 duration: 
 appliance:
   - stovetop
 allergens: 
 veggie_option: false
-cuisine: 
+cuisine:
 key_ingredients:
   - beef fat
 ---

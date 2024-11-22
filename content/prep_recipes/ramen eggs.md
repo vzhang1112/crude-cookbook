@@ -1,11 +1,14 @@
 ---
+description: 
+draft: false
 duration: fast
 appliance:
   - stovetop
-allergens:
+allergens: 
   - eggs
 veggie_option: true
-cuisine: 
+cuisine:
+  - japanese
 key_ingredients:
   - eggs
 ---

@@ -1,11 +1,13 @@
 ---
-duration: 
+description: 
+draft: false
+duration:
 appliance:
   - stovetop
 allergens:
   - dairy
 veggie_option: true
-cuisine: 
+cuisine:
 key_ingredients:
   - butter
 ---

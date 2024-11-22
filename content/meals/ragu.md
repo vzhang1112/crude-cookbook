@@ -1,8 +1,10 @@
 ---
+description: 
+draft: false
 duration: slow
 appliance:
-  - dutch oven
   - oven
+  - dutch oven
 allergens: 
 veggie_option: false
 cuisine:
