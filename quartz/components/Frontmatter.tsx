@@ -1,10 +1,9 @@
-import { pathToRoot, slugTag } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { constants } from "node:module"
 
 const FrontmatterList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const filteredFM = 
+  const filteredKeys = 
     Object.keys(fileData).
       filter(key => {
         return key == "duration" ||
@@ -14,16 +13,19 @@ const FrontmatterList: QuartzComponent = ({ fileData, displayClass }: QuartzComp
               key == "cuisine" ||
               key == "key_ingredients";
       });
+  const filteredFM:
+      Record<string, any> = {};
+  filteredKeys.forEach(key => {
+    filteredFM[key] = fileData[key];
+  })
   if (filteredFM && filteredFM.length > 0) {
     return (
       <ul class={classNames(displayClass, "tags")}>
-        {filteredFM.map((filteredFM) => {
-          return (
-            <li>
-              {filteredFM}
-            </li>
-          )
-        })}
+        return (
+          <li>
+            {filteredFM}
+          </li>
+        )
       </ul>
     )
   } else {
