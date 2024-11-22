@@ -4,7 +4,7 @@ appliance:
   - stovetop
 allergens:
   - seafood
-veggie option: true
+veggie_option: true
 cuisine:
   - italian
 key_ingredients:

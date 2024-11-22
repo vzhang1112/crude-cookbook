@@ -4,7 +4,7 @@ appliance:
   - stovetop
 allergens:
   - eggs
-veggie option: true
+veggie_option: true
 cuisine: 
 key_ingredients:
   - eggs

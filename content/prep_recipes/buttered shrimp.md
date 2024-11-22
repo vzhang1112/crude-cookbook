@@ -4,7 +4,7 @@ appliance:
   - stovetop
 allergens:
   - seafood
-veggie option: false
+veggie_option: false
 cuisine: 
 key_ingredients:
   - shrimp

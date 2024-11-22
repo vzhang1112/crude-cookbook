@@ -2,8 +2,8 @@
 duration: 
 appliance:
   - stovetop
-allergens: []
-veggie option: false
+allergens: 
+veggie_option: false
 cuisine: 
 key_ingredients:
   - beef fat

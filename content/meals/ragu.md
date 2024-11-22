@@ -4,7 +4,7 @@ appliance:
   - dutch oven
   - oven
 allergens: 
-veggie option: false
+veggie_option: false
 cuisine:
   - italian
 key_ingredients:

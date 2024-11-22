@@ -5,7 +5,7 @@ appliance:
   - stovetop
   - slow cooker
 allergens: 
-veggie option: false
+veggie_option: false
 cuisine: 
 key_ingredients:
   - chicken carcass

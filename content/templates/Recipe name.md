@@ -2,7 +2,7 @@
 duration: 
 appliance: 
 allergens: 
-veggie option: false
+veggie_option: false
 cuisine: 
 key_ingredients:
 ---

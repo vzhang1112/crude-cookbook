@@ -1,3 +1,10 @@
+
+```dataview 
+table veggie_option, cuisine, key_ingredients
+from "prep_recipes"
+sort file.name asc
+```
+
 %% Begin Waypoint %%
 - [[beef tallow]]
 - [[browned butter]]

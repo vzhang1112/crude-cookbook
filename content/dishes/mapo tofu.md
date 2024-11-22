@@ -3,7 +3,7 @@ duration: fast
 appliance:
   - stovetop
 allergens: 
-veggie option: true
+veggie_option: true
 cuisine:
   - chinese
 key_ingredients:

@@ -4,7 +4,7 @@ appliance:
   - stovetop
 allergens:
   - dairy
-veggie option: true
+veggie_option: true
 cuisine: 
 key_ingredients:
   - butter
