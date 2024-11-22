@@ -99,6 +99,12 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string
+        duration: string
+        appliance: string[]
+        allergens: string[]
+        veggie_option: boolean
+        cuisine: string[]
+        key_ingredients: string[]
       }>
   }
 }
