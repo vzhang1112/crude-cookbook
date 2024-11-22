@@ -1,28 +1,26 @@
 import { pathToRoot, slugTag } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { constants } from "node:module"
 
-const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const appliance = fileData.frontmatter?.appliance
-  const baseDir = pathToRoot(fileData.slug!)
-  if (appliance && appliance.length > 0) {
-    return (
-      <ul class={classNames(displayClass, "appliance")}>
-        
-      </ul>
-  
-  const tags = fileData.frontmatter?.tags
-  const baseDir = pathToRoot(fileData.slug!)
-  if (tags && tags.length > 0) {
+const FrontmatterList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+  const filteredFM = 
+    Object.keys(fileData).
+      filter(key => {
+        return key == "duration" ||
+              key == "appliance" ||
+              key == "allergens" ||
+              key == "veggie_option" ||
+              key == "cuisine" ||
+              key == "key_ingredients";
+      });
+  if (filteredFM && filteredFM.length > 0) {
     return (
       <ul class={classNames(displayClass, "tags")}>
-        {tags.map((tag) => {
-          const linkDest = baseDir + `/tags/${slugTag(tag)}`
+        {filteredFM.map((filteredFM) => {
           return (
             <li>
-              <a href={linkDest} class="internal tag-link">
-                {tag}
-              </a>
+              {filteredFM}
             </li>
           )
         })}
@@ -33,7 +31,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   }
 }
 
-TagList.css = `
+FrontmatterList.css = `
 .tags {
   list-style: none;
   display: flex;
@@ -62,4 +60,4 @@ a.internal.tag-link {
 }
 `
 
-export default (() => TagList) satisfies QuartzComponentConstructor
+export default (() => FrontmatterList) satisfies QuartzComponentConstructor
