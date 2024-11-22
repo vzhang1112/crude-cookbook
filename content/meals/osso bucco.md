@@ -1,14 +1,27 @@
 ---
+description: 
+draft: false
 duration: slow
-appliance:
-  - dutch oven
-  - oven
 allergens: 
-veggie_option: false
-cuisine:
-  - italian
+veggie_option: 
 key_ingredients:
   - cross-cut veal shank
+cuisine:
+  - italian
+appliance:
+  - oven
+  - dutch oven
+---
+	duration: slow
+	appliance:
+	- dutch_oven
+	- oven
+	allergens: 
+	veggie_option: false
+	cuisine:
+	- italian
+	key_ingredients: 
+	- cross-cut veal shank
 ---
 # Ingredients
 - [ ] Cross cut veal shanks (one per person)
