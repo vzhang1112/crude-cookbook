@@ -1,0 +1,27 @@
+# As basic as it gets
+- [ ] wooden spatula
+	- doesn't damage metal pan, won't melt, and won't conduct heat
+- [ ] rubber spatula
+- [ ] tongs
+- [ ] sturdy all-purpose cutting knife
+	- want it a little heavier so you have something to grab on
+	- the heavier it is, the better you can leverage gravity when you're using it
+- [ ] small paring knife for the details
+	- cutting fruit, getting the eyes out of the potato
+	- peeling things
+- [ ] knife sharpener
+	- something simple like dollarama is more than enough
+- [ ] frying pan
+	- conducts heat well so you can get a good crust on whatever you're frying
+	- any material works (cast-iron, stainless steel, teflon, etc.)
+	- teflon is good if you like cooking eggs so it won't stick
+- [ ] sauce pan
+	- anything for boiling stuff
+	- make sure it has a lid!
+- [ ] cutting board
+	- should have some weight to it so it won't slip when you cut
+# A little fancier
+- [ ] cast-iron pan
+- [ ] dutch oven
+- [ ] rice cooker
+- [ ] insta pot/pressure cooker

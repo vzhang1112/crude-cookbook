@@ -1,9 +1,11 @@
 ---
+description: 
+draft: false
 duration: 
-appliance: 
+appliance:
 allergens: 
 veggie_option: false
-cuisine: 
+cuisine:
 key_ingredients:
 ---
 # Ingredients
