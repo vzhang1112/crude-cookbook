@@ -1,3 +1,8 @@
-%% Error: Cannot create a waypoint in the root folder of your vault. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
+%% Begin Waypoint %%
+- [[cookware]]
+- [[fridge_stock]]
+
+%% End Waypoint %%
+
 
 in case you don't know what to buy when you go to the supermarket, canadian tire, etc

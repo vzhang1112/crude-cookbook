@@ -5,7 +5,9 @@ sort file.name asc
 ```
 
 %% Begin Waypoint %%
+- [[glazed carrots]]
 - [[mapo tofu]]
 - [[salmon steak]]
+- [[smashed potatoes]]
 
 %% End Waypoint %%

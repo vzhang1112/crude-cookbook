@@ -11,6 +11,7 @@ sort file.name asc
 - [[buttered shrimp]]
 - [[chicken stock]]
 - [[italian sofritto]]
+- [[pesto]]
 - [[ramen eggs]]
 
 %% End Waypoint %%

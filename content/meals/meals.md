@@ -6,6 +6,7 @@ sort file.name asc
 
 %% Begin Waypoint %%
 - [[osso bucco]]
+- [[parmesan orzo]]
 - [[ragu]]
 - [[shrimp alfredo]]
 

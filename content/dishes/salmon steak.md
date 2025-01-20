@@ -28,5 +28,5 @@ key_ingredients:
 8. Rest for 2-3 minutes before cutting
 # Notes
 * Cook times may be longer if you prefer fish to be more fully cooked
-* Can use [[browned butter]] instead of butter
+* Can use [[browned butter]] instead of butter (completely optional)
 # Veggie option
