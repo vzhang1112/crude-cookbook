@@ -5,6 +5,7 @@ sort file.name asc
 ```
 
 %% Begin Waypoint %%
+- [[mac and cheese]]
 - [[osso bucco]]
 - [[parmesan orzo]]
 - [[ragu]]
