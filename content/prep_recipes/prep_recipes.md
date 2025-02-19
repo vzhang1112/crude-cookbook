@@ -10,9 +10,11 @@ sort file.name asc
 - [[browned butter]]
 - [[buttered shrimp]]
 - [[chicken stock]]
+- [[compound butter]]
 - [[deep fried peanuts]]
 - [[italian sofritto]]
 - [[pesto]]
 - [[ramen eggs]]
+- [[stir-fried ground pork]]
 
 %% End Waypoint %%
