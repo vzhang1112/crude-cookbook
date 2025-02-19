@@ -22,6 +22,7 @@
 	- should have some weight to it so it won't slip when you cut
 # A little fancier
 - [ ] cast-iron pan
+- [ ] wok
 - [ ] dutch oven
 - [ ] rice cooker
 - [ ] insta pot/pressure cooker

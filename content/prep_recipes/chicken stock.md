@@ -29,4 +29,4 @@ key_ingredients:
 # Notes
 - Can become a little lumpy if the carcass is gelatinous
 - Keeps for quite a while after cooking
-- Can become concentrated chicken stock if you cook and reduce for long enough
+- The longer you reduce for, the more concentrated the stock will be

@@ -8,12 +8,10 @@ veggie_option: false
 cuisine: 
 key_ingredients:
   - salmon steak
+description: 
+draft: false
 ---
-# Ingredients
-- [ ] 1/2 salmon steak per person
-- [ ] Oil
-- [ ] Salt
-- [ ] Pepper
+# Veggie option
 - [ ] Butter
 - [ ] Crushed garlic
 - [ ] Herbs of your choice
