@@ -29,5 +29,5 @@ key_ingredients:
 6. season to taste
 7. mix in parsley right as you kill the heat
 # Notes
-* 
+* can use [[browned butter]] for richer flavour
 # Veggie option

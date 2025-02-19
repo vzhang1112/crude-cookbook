@@ -44,4 +44,4 @@ key_ingredients:
 * generally want 1 egg yolk per person
 * can season with extra spices like cayenne or chili peppers depending on your mood
 # Veggie option
-* skip the bacon, use butter
+* skip the bacon, use butter or [[browned butter]]

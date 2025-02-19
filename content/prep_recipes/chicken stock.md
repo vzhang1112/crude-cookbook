@@ -27,6 +27,7 @@ key_ingredients:
 3. Strain to remove bones and seasonings
 4. Fridge to store
 # Notes
+- you can use the chicken carcass leftover from [[roasted chicken]] once you've fully carved it
 - Can become a little lumpy if the carcass is gelatinous
 - Keeps for quite a while after cooking
 - The longer you reduce for, the more concentrated the stock will be
